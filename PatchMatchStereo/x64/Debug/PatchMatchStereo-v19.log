@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\李在渊\Desktop\SaveFile\finalTest\PatchMatchStereo-master\PatchMatchStereo\main.cpp(243,12): warning C4305: “初始化”: 从“double”到“float32”截断
+C:\Users\李在渊\Desktop\SaveFile\finalTest\PatchMatchStereo-master\PatchMatchStereo\main.cpp(244,12): warning C4305: “初始化”: 从“double”到“float32”截断
+C:\Users\李在渊\Desktop\SaveFile\finalTest\PatchMatchStereo-master\PatchMatchStereo\main.cpp(247,14): warning C4305: “初始化”: 从“double”到“float32”截断
+  PatchMatchStereo-v19.vcxproj -> C:\Users\李在渊\Desktop\SaveFile\finalTest\PatchMatchStereo-master\x64\Debug\PatchMatchStereo-v19.exe

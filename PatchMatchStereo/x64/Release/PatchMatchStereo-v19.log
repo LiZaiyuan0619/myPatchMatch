@@ -1,0 +1,13 @@
+﻿  PatchMatchStereo.cpp
+C:\Users\李在渊\Desktop\SaveFile\finalTest\PatchMatchStereo-master\PatchMatchStereo\pms_types.h(152,28): warning C4244: “初始化”: 从“double”转换到“float32”，可能丢失数据
+C:\Users\李在渊\Desktop\SaveFile\finalTest\PatchMatchStereo-master\PatchMatchStereo\pms_types.h(152,22): warning C4244: “初始化”: 从“double”转换到“const float32”，可能丢失数据
+C:\Users\李在渊\Desktop\SaveFile\finalTest\PatchMatchStereo-master\PatchMatchStereo\cost_computor.hpp(215,15): warning C4244: “+=”: 从“double”转换到“float32”，可能丢失数据
+  pms_propagation.cpp
+C:\Users\李在渊\Desktop\SaveFile\finalTest\PatchMatchStereo-master\PatchMatchStereo\pms_types.h(152,28): warning C4244: “初始化”: 从“double”转换到“float32”，可能丢失数据
+C:\Users\李在渊\Desktop\SaveFile\finalTest\PatchMatchStereo-master\PatchMatchStereo\pms_types.h(152,22): warning C4244: “初始化”: 从“double”转换到“const float32”，可能丢失数据
+C:\Users\李在渊\Desktop\SaveFile\finalTest\PatchMatchStereo-master\PatchMatchStereo\cost_computor.hpp(215,15): warning C4244: “+=”: 从“double”转换到“float32”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 430 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  PatchMatchStereo-v19.vcxproj -> C:\Users\李在渊\Desktop\SaveFile\finalTest\PatchMatchStereo-master\x64\Release\PatchMatchStereo-v19.exe
